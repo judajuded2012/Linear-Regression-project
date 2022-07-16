@@ -1,1 +1,1 @@
-Linear regression project
+Seoul Bike Trip Duration Prediction
